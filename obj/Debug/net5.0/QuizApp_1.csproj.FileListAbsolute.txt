@@ -1,0 +1,16 @@
+C:\Users\casper\Desktop\c#\QuizApp_1\bin\Debug\net5.0\QuizApp_1.exe
+C:\Users\casper\Desktop\c#\QuizApp_1\bin\Debug\net5.0\QuizApp_1.deps.json
+C:\Users\casper\Desktop\c#\QuizApp_1\bin\Debug\net5.0\QuizApp_1.runtimeconfig.json
+C:\Users\casper\Desktop\c#\QuizApp_1\bin\Debug\net5.0\QuizApp_1.runtimeconfig.dev.json
+C:\Users\casper\Desktop\c#\QuizApp_1\bin\Debug\net5.0\QuizApp_1.dll
+C:\Users\casper\Desktop\c#\QuizApp_1\bin\Debug\net5.0\ref\QuizApp_1.dll
+C:\Users\casper\Desktop\c#\QuizApp_1\bin\Debug\net5.0\QuizApp_1.pdb
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.AssemblyInfo.cs
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.dll
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\ref\QuizApp_1.dll
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.pdb
+C:\Users\casper\Desktop\c#\QuizApp_1\obj\Debug\net5.0\QuizApp_1.genruntimeconfig.cache
